@@ -1,1 +1,1 @@
-{"version":2,"salt":"SnarlV3::2026::HardcodedSalt::DoNotLeak","cards":{}}
+{"version":2,"salt":"SnarlV3::2026::HardcodedSalt::DoNotLeak","cards":{"02aed62c1e9ed813ca40cbc5ae0c20ab7d0d328f65725246b3f5649e06cf0940":{"card":"GYHK7CD4V9325SXXF2UT36Y65NGT5XR9","expire":"9999-12-31","hwid":"","device":"","last_login":"","created":"2026-10-24","revoked":false},"a8d23892923c1ffd2b0ac589a7bfca8b7be3b20ec14112735c9d1235b450f208":{"card":"LCJ6T37UBL2ZHWE2EVMZE88DMMFDDWYA","expire":"9999-12-31","hwid":"","device":"","last_login":"","created":"2026-10-24","revoked":false}}}
